@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Roman/.gradle/caches/transforms-2/files-2.1/7082c0f12b1f9bf532f499faed19013d/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Roman/.gradle/caches/transforms-2/files-2.1/00de10ce8228f24168cdf62811d0b08e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:10.2.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/ca6d454839ebd125665d526a129a1d9f/butterknife-10.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/b03c59f3e64ccf261b124ca7fa558ad9/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/d979e213e2faa3fac4ad885c758dc26f/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/413059b1e349ba7a5211572ab9bae9de/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/a6db5e522e1865785b0e8e86b118410c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/cdd6ba22be45e583be7ed7e3b8e624c9/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/0201468eafbcd74e7283e834bd4808a4/butterknife-runtime-10.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/af861f3f0c1541fdb1678bab1a920441/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/fcd161c4a397b0b30ceed4b9b197263f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/60b14a865a9dfb1068e31425866f629a/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/4b641651841783e73337b51c7f169eba/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/e817a67c4b55207d04baffe6df28b098/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/13e29cc06a0186c28bf730f0e600ba77/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/21b5e941ace092cb31a4387f24ffacd4/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/43ab60d01f7aa6b0fcb03e4829b86555/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/82fc633228ed933f54ddeab53240cd17/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/95c8cc97d1e79607acb9b2beca6be65d/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/0f80d44f6d8449067e676b1caf89384b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c50ff44a55dc58f9e096b0755b88794b/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/05ec1e2c5258aaff0a9a214914b33040/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c45bd0287606b40f8c308b25757a8fbe/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c9de678e50d73d3823b86dc52c814e53/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/1319745f44efe3172cddea714409e645/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c6cbcfe4f4688c617318248628ed6e3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/9c5b32f2f8aa4f88d1cdce3af3ff62f3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/6b86e585f5a27100b3b6347d5b7db270/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/65a6f676d9c072995da40cc878c3c54d/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Roman/.gradle/caches/transforms-2/files-2.1/00de10ce8228f24168cdf62811d0b08e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Roman/.gradle/caches/transforms-2/files-2.1/00de10ce8228f24168cdf62811d0b08e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/82fc633228ed933f54ddeab53240cd17/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/82fc633228ed933f54ddeab53240cd17/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/95c8cc97d1e79607acb9b2beca6be65d/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/95c8cc97d1e79607acb9b2beca6be65d/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/82fc633228ed933f54ddeab53240cd17/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:11:9-40
+activity#ru.yakstar.loginformmvp.view.MainActivity
+ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:12:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Roman/.gradle/caches/transforms-2/files-2.1/7082c0f12b1f9bf532f499faed19013d/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Roman/.gradle/caches/transforms-2/files-2.1/7082c0f12b1f9bf532f499faed19013d/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Roman/.gradle/caches/transforms-2/files-2.1/00de10ce8228f24168cdf62811d0b08e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Roman/.gradle/caches/transforms-2/files-2.1/00de10ce8228f24168cdf62811d0b08e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:10.2.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/ca6d454839ebd125665d526a129a1d9f/butterknife-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/ca6d454839ebd125665d526a129a1d9f/butterknife-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/b03c59f3e64ccf261b124ca7fa558ad9/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/b03c59f3e64ccf261b124ca7fa558ad9/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/d979e213e2faa3fac4ad885c758dc26f/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/d979e213e2faa3fac4ad885c758dc26f/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/413059b1e349ba7a5211572ab9bae9de/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/413059b1e349ba7a5211572ab9bae9de/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/a6db5e522e1865785b0e8e86b118410c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/a6db5e522e1865785b0e8e86b118410c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/cdd6ba22be45e583be7ed7e3b8e624c9/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/cdd6ba22be45e583be7ed7e3b8e624c9/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/0201468eafbcd74e7283e834bd4808a4/butterknife-runtime-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/0201468eafbcd74e7283e834bd4808a4/butterknife-runtime-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/af861f3f0c1541fdb1678bab1a920441/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/af861f3f0c1541fdb1678bab1a920441/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/fcd161c4a397b0b30ceed4b9b197263f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/fcd161c4a397b0b30ceed4b9b197263f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/60b14a865a9dfb1068e31425866f629a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/60b14a865a9dfb1068e31425866f629a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/4b641651841783e73337b51c7f169eba/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/4b641651841783e73337b51c7f169eba/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/e817a67c4b55207d04baffe6df28b098/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/e817a67c4b55207d04baffe6df28b098/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/13e29cc06a0186c28bf730f0e600ba77/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/13e29cc06a0186c28bf730f0e600ba77/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/21b5e941ace092cb31a4387f24ffacd4/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/21b5e941ace092cb31a4387f24ffacd4/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/43ab60d01f7aa6b0fcb03e4829b86555/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/43ab60d01f7aa6b0fcb03e4829b86555/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/82fc633228ed933f54ddeab53240cd17/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Roman/.gradle/caches/transforms-2/files-2.1/82fc633228ed933f54ddeab53240cd17/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/95c8cc97d1e79607acb9b2beca6be65d/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/95c8cc97d1e79607acb9b2beca6be65d/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/0f80d44f6d8449067e676b1caf89384b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/0f80d44f6d8449067e676b1caf89384b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c50ff44a55dc58f9e096b0755b88794b/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c50ff44a55dc58f9e096b0755b88794b/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/05ec1e2c5258aaff0a9a214914b33040/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/05ec1e2c5258aaff0a9a214914b33040/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c45bd0287606b40f8c308b25757a8fbe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c45bd0287606b40f8c308b25757a8fbe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c9de678e50d73d3823b86dc52c814e53/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c9de678e50d73d3823b86dc52c814e53/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/1319745f44efe3172cddea714409e645/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/1319745f44efe3172cddea714409e645/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c6cbcfe4f4688c617318248628ed6e3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/c6cbcfe4f4688c617318248628ed6e3b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/9c5b32f2f8aa4f88d1cdce3af3ff62f3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/9c5b32f2f8aa4f88d1cdce3af3ff62f3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/6b86e585f5a27100b3b6347d5b7db270/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/6b86e585f5a27100b3b6347d5b7db270/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/65a6f676d9c072995da40cc878c3c54d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Roman/.gradle/caches/transforms-2/files-2.1/65a6f676d9c072995da40cc878c3c54d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Roman/Desktop/project/android/LoginFormMvp/app/src/main/AndroidManifest.xml
