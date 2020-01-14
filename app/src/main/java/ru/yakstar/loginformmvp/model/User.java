@@ -29,7 +29,7 @@ public class User implements UserResult {
             return 0;
         else if (!Patterns.EMAIL_ADDRESS.matcher(getEmail()).matches())
             return 1;
-        else if (getPassword().length() <= 8)
+        else if (getPassword().length() < 8)
             return 2;
         else
             return 3;
