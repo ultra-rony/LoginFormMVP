@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity implements MainActivityView 
     @BindView(R.id.etPassword) EditText etPassword;
 
     @OnClick(R.id.btnValid) void submit() {
-        presenter = new UserPresenter(MainActivity.this);
         presenter.getUser(etMail.getText().toString(),etPassword.getText().toString());
     }
 
@@ -31,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements MainActivityView 
         setContentView(R.layout.activity_main);
 
         ButterKnife.bind(this);
+        presenter = new UserPresenter(MainActivity.this);
     }
 
     @Override
